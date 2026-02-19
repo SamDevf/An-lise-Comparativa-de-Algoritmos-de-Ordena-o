@@ -86,3 +86,11 @@ int main() {
 
     return 0;
 }
+
+
+/*Comclusão
+
+Nos testes realizados, ambos os algoritmos apresentaram crescimento quadrático e tiveram um número semelhante de comparações. 
+Mas entanto, o Bubble Sort teve muito mais movimentações, assim aumentando seu tempo de execução.
+Para a situação do exercício o vetor em ordem decrescente, o Selection Sort mostrou mais eficiente, porque realiza menos trocas e melhor desempenho.
+*/
